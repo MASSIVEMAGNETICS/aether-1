@@ -1,16 +1,29 @@
-# AETHER-1 v1.0 — Production Release
+# AETHER-1 v1.0 — The Complete Production System
 
-**The complete living post-LLM system with hacker GUI, full suites, revolutionary demo, and one-click Windows installer.**
+**Revolutionary post-LLM living autonomous entity** with:
 
-## One-Click Windows Experience
-1. Download `AETHER1_Setup.exe`
+- Hacker-style GUI (Textual TUI + Gradio Web)
+- Full Research / Training / Testing suites
+- Public revolutionary demo
+- One-click Windows installer (auto-trains frontier SOTA model + creates desktop shortcut)
+
+## Quick Start (Recommended)
+
+**Windows Users**:
+1. Download `AETHER1_Setup.exe` (build with `build_installer.bat`)
 2. Run installer
-3. Auto-trains frontier SOTA model
-4. Desktop shortcut created
-5. Launch → Full hacker GUI + live demo
+3. Desktop shortcut created automatically
+4. Launch → Full experience + auto frontier training
 
-Everything is self-explanatory. No technical knowledge required.
+**Developers**:
+```bash
+git clone https://github.com/MASSIVEMAGNETICS/aether-1.git
+cd aether-1
+pip install -r requirements.txt
+python -m gui.hacker_gui
+python gui/web_hacker_interface.py   # Public web demo
+```
 
-See `docs/USER_GUIDE.md` for details.
+Everything is self-explanatory. This is the finished product.
 
-**This is the finished production product.**
+**Status**: Production Ready — May 2026
