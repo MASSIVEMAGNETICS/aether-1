@@ -1,5 +1,16 @@
-# AETHER-1
+# AETHER-1 v1.0 — Production Release
 
-**The complete reference implementation of the revolutionary post-LLM autonomous living entity.**
+**The complete living post-LLM system with hacker GUI, full suites, revolutionary demo, and one-click Windows installer.**
 
-Full details in the initial commit and docs/.
+## One-Click Windows Experience
+1. Download `AETHER1_Setup.exe`
+2. Run installer
+3. Auto-trains frontier SOTA model
+4. Desktop shortcut created
+5. Launch → Full hacker GUI + live demo
+
+Everything is self-explanatory. No technical knowledge required.
+
+See `docs/USER_GUIDE.md` for details.
+
+**This is the finished production product.**

@@ -1,0 +1,7 @@
+[project]
+name = "aether-1"
+version = "1.0.0"
+description = "Revolutionary post-LLM living autonomous entity"
+
+[tool.setuptools.packages.find]
+where = ["."]
